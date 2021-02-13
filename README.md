@@ -1,6 +1,6 @@
 # Free Downloader Dot Net
 
-This is small application to download files from internet. It supports 3 file downloads simultaneously.
+This is small application to download files from internet. It supports 3 file downloads simultaneously. It also supports resuming stopped downloads after application restart.
 It uses SQLite local database to store information about downloaded files.
 Application requires .Net Framework 4.5 installed on client computer to work.
 
