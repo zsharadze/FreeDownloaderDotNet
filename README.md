@@ -9,7 +9,7 @@ Application requires .Net Framework 4.5 installed on client computer to work.
 2. Launch project in debug mode.
 3. Enjoy.
 
-![screenshot](https://github.com/zsharadze/FreeDownloaderDotNet/blob/master/Capture.PNG?raw=true)
+![screenshot](https://github.com/zsharadze/FreeDownloaderDotNet/blob/master/Capture.png?raw=true)
 
 ###### About me
 My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia.
