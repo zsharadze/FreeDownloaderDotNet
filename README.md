@@ -13,4 +13,3 @@ Application requires .Net Framework 4.5 installed on client computer to work.
 
 ###### About me
 My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia.
-I'm Microsoft Certified Professional.
